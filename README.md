@@ -21,4 +21,4 @@ I'm currently learning JavaScript and Python.👨‍🎓
 
 
 
-(https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
