@@ -18,3 +18,7 @@ I'm currently learning JavaScript and Python.👨‍🎓
 [![FrontendMentor](https://img.shields.io/badge/frontendmentor-330F63?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/JGRoldan)
 [![Codepen](https://img.shields.io/badge/Porfolio-DC322F?style=for-the-badge&logo=medium&logoColor=white)](https://jgroldan.github.io/jgrdeveloper/)
 
+
+
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
