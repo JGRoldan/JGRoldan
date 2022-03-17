@@ -12,5 +12,7 @@ I'm a self-taught passionate FrontEnd developer from Argentina.
 
 Links:
 [Personal Portfolio](https://jgroldan.github.io/jgrdeveloper/)
+
 [CodePen](https://codepen.io/jgroldan)
+
 [FrontendMentor](https://www.frontendmentor.io/profile/JGRoldan)
