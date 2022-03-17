@@ -12,7 +12,7 @@ I'm a self-taught passionate FrontEnd developer from Argentina. I'm currently le
 
 <h2 align="left">Links:</h3>
 
-[asdas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-roldan-1433a8173/)
 
 [Personal Portfolio](https://www.linkedin.com/in/gaston-roldan-1433a8173/)
 
