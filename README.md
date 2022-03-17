@@ -13,7 +13,7 @@ I'm a self-taught passionate FrontEnd developer from Argentina. I'm currently le
 <h2 align="left">Links:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-roldan-1433a8173/)
-[![Codepen](https://img.shields.io/badge/codepen-100000?style=for-the-codepen&logo=codepen&logoColor=white)](https://codepen.io/jgroldan)
+[![Codepen](https://img.shields.io/badge/-Codepen-100000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jgroldan)
 [![FrontendMentor](https://img.shields.io/badge/frontendmentor-330F63?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/JGRoldan)
 [![Codepen](https://img.shields.io/badge/Porfolio-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jgroldan.github.io/jgrdeveloper/)
 
