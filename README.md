@@ -1,6 +1,6 @@
 ### Hi there, I'm Gaston 👋 
 
-Soy un desarrollador web Frontend autodidacta de Argentina.
+Soy desarrollador web Frontend autodidacta de Argentina.
 
 Actualmente estoy aprendiendo Javascript, React JS y Python👨‍🎓
 
