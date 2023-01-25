@@ -2,7 +2,7 @@
 
 Soy desarrollador web Frontend autodidacta de Argentina.
 
-Actualmente estoy aprendiendo Java, Javascript, Node js y React JS👨‍🎓
+Actualmente estoy realizando un bootcamp de FullStack developer👨‍🎓
 
 
 <h3 align="left">Lenguajes</h3>
