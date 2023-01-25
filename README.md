@@ -2,7 +2,7 @@
 
 Soy desarrollador web Frontend autodidacta de Argentina.
 
-Actualmente estoy realizando un bootcamp de FullStack developer👨‍🎓
+Actualmente estoy realizando un [bootcamp](https://github.com/JGRoldan/Open-Bootcamp) de FullStack developer👨‍🎓
 
 
 <h3 align="left">Lenguajes</h3>
