@@ -26,7 +26,7 @@ Actualmente estoy realizando un [bootcamp](https://github.com/JGRoldan/Open-Boot
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgrdeveloper/)
 [![Codepen](https://img.shields.io/badge/-Codepen-100000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jgroldan)
 [![FrontendMentor](https://img.shields.io/badge/frontendmentor-330F63?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/JGRoldan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC322F?style=for-the-badge&logo=medium&logoColor=white)](https://jgroldan.github.io/jgrdeveloper/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC322F?style=for-the-badge&logo=medium&logoColor=white)]([https://jgroldan.github.io/jgrdeveloper/](https://jgrdeveloper.vercel.app/)https://jgrdeveloper.vercel.app/)
 
 
 
