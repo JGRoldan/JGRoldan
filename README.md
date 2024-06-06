@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Gaston](https://jgrdeveloper.vercel.app/) 👋 
 
-Soy desarrollador web Frontend autodidacta de Argentina.
+Soy desarrollador FullStack autodidacta de Argentina.
 
 
 <h3 align="left"> :pushpin:	Languages</h3>
