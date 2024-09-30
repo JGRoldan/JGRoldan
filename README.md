@@ -69,7 +69,7 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-FEFEFE?style=for-the-badge&logo=openjdk&logoColor=ED272C)
 ![Springboot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
