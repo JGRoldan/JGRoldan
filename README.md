@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Linkedin2](https://github.com/JGRoldan/JGRoldan/assets/71336562/aad3b39a-a3d2-423b-9e0b-7077b7090658)
+<!-- ![Linkedin2](https://github.com/JGRoldan/JGRoldan/assets/71336562/aad3b39a-a3d2-423b-9e0b-7077b7090658) -->
 
 <div id="user-content-toc">
   <ul align="center">
@@ -30,6 +30,19 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
+
+## 🚀 Proyectos en producción
+
+<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
+
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+- October Clone [Demo](https://october-films-clone.vercel.app/)
+- Article Clone [Demo](https://made-by-article-clone.vercel.app/)
 
 ## 🔧 Proyectos en Desarrollo
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
