@@ -2,9 +2,6 @@
 
 ![Linkedin2](https://github.com/JGRoldan/JGRoldan/assets/71336562/aad3b39a-a3d2-423b-9e0b-7077b7090658)
 
-### Hi there, I'm  👋 
-
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, Hi there, I'm [Gaston](https://jgrdeveloper.vercel.app/), FullStack Developer from Argentina.</h1></summary>
