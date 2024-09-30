@@ -60,7 +60,8 @@
 
 </div>
 
-- Repositorio de pruebas técnicas [Repositorio](https://github.com/JGRoldan/pruebas-tecnicas)
+- Backend [Repositorio](https://github.com/JGRoldan/pruebas-tecnicas/tree/main/backend)
+- Frontend [Repositorio](https://github.com/JGRoldan/pruebas-tecnicas/tree/main/frontend)
 
 ## 🤖 Automatización
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
@@ -71,17 +72,15 @@
 
 - Automatización consumiendo api de VMware. [Repositorio](https://github.com/JGRoldan/VMware-Cloud-Director-API)
 
-<!--- FIN  -->
-<p align="center">
-Crear software de calidad es una combinación de buenas prácticas y pasión: cada línea de código bien escrita no solo resuelve problemas, sino que también trae alegría y satisfacción al ver un producto de valor tomar forma.
-</p>
-
 <h3 align="left">Links:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgrdeveloper/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DC322F?style=for-the-badge&logo=medium&logoColor=white)](https://jgrdeveloper.vercel.app/)
 
 
-
+<!--- FIN  -->
+<p align="center">
+Crear software de calidad es una combinación de buenas prácticas y pasión: cada línea de código bien escrita no solo resuelve problemas, sino que también trae alegría y satisfacción al ver un producto de valor tomar forma.
+</p>
 
 
