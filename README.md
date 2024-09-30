@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github.com/user-attachments/assets/5cc8da63-0d5d-41c5-8b04-8b1d35698dcf">
+![out1](https://github.com/user-attachments/assets/881efc5b-a4b1-49cd-9083-75571f371bdd)
 
 
 <!-- ![Linkedin2](https://github.com/JGRoldan/JGRoldan/assets/71336562/aad3b39a-a3d2-423b-9e0b-7077b7090658) -->
