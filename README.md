@@ -89,9 +89,11 @@
 <h3 align="left">Links:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgrdeveloper/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC322F?style=for-the-badge&logo=medium&logoColor=white)](https://jgrdeveloper.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC322F?style=for-the-badge&logo=medium&logoColor=white)](https://jgrdeveloper.vercel.app/)  
 
 
+
+      
 <!--- FIN  -->
 <p align="center">
 Crear software de calidad es una combinación de buenas prácticas y pasión: cada línea de código bien escrita no solo resuelve problemas, sino que también trae alegría y satisfacción al ver un producto de valor tomar forma.
