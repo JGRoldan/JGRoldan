@@ -24,10 +24,11 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-FEFEFE?style=for-the-badge&logo=openjdk&logoColor=ED272C)
 ![Springboot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 </div>
 
