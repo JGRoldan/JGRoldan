@@ -1,17 +1,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![out1](https://github.com/user-attachments/assets/881efc5b-a4b1-49cd-9083-75571f371bdd)
-
-
-<!-- ![Linkedin2](https://github.com/JGRoldan/JGRoldan/assets/71336562/aad3b39a-a3d2-423b-9e0b-7077b7090658) -->
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there👋. I'm Gaston, FullStack Developer from Argentina.</h1></summary>
   </ul>
 </div>
 
+![out1](https://github.com/user-attachments/assets/881efc5b-a4b1-49cd-9083-75571f371bdd)
 
+<!-- ![Linkedin2](https://github.com/JGRoldan/JGRoldan/assets/71336562/aad3b39a-a3d2-423b-9e0b-7077b7090658) -->
 
 ## 🐱‍🏍 Mis últimos proyectos usan tecnologías tales como:
 
@@ -79,15 +76,6 @@
 
 - Backend [Repositorio](https://github.com/JGRoldan/pruebas-tecnicas/tree/main/backend)
 - Frontend [Repositorio](https://github.com/JGRoldan/pruebas-tecnicas/tree/main/frontend)
-
-## 🤖 Automatización
-<div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-- Automatización consumiendo api de VMware. [Repositorio](https://github.com/JGRoldan/VMware-Cloud-Director-API)
 
 <h3 align="left">Links:</h3>
 
