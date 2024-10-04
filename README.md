@@ -42,6 +42,7 @@
 
 </div>
 
+- Cúspide Clone [Demo](https://cuspide-clone.vercel.app/)
 - October Clone [Demo](https://october-films-clone.vercel.app/)
 - Article Clone [Demo](https://made-by-article-clone.vercel.app/)
 
@@ -60,7 +61,6 @@
 </div>
 
 - Dan Tase Clone [Repositorio](https://github.com/JGRoldan/web-clone-lab/tree/main/dantase-clone)
-- Cuspide Clone [Repositorio](https://github.com/JGRoldan/web-clone-lab/tree/main/cuspide-clone)
 
 ## 🧪 Pruebas Tecnicas
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
