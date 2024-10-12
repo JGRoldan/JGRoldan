@@ -43,6 +43,7 @@
 </div>
 
 - Cúspide Clone [Demo](https://cuspide-clone.vercel.app/)
+- Dantase Clone [Demo](https://dantase-clone.vercel.app/)
 - October Clone [Demo](https://october-films-clone.vercel.app/)
 - Article Clone [Demo](https://made-by-article-clone.vercel.app/)
 
@@ -52,7 +53,6 @@
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +60,7 @@
 
 </div>
 
-- Dan Tase Clone [Repositorio](https://github.com/JGRoldan/web-clone-lab/tree/main/dantase-clone)
+- Kultur5 Clone [Repositorio](https://github.com/JGRoldan/web-clone-lab/tree/main/kultur5-clone)
 
 ## 🧪 Pruebas Tecnicas
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
