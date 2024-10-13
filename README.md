@@ -44,6 +44,7 @@
 
 - Cúspide Clone [Demo](https://cuspide-clone.vercel.app/)
 - Dantase Clone [Demo](https://dantase-clone.vercel.app/)
+- Kultur5 Clone [Demo](https://kultur5-clone.vercel.app/)
 - October Clone [Demo](https://october-films-clone.vercel.app/)
 - Article Clone [Demo](https://made-by-article-clone.vercel.app/)
 
@@ -60,7 +61,9 @@
 
 </div>
 
-- Kultur5 Clone [Repositorio](https://github.com/JGRoldan/web-clone-lab/tree/main/kultur5-clone)
+> [!NOTE]
+> Buscando próximo proyecto
+
 
 ## 🧪 Pruebas Tecnicas
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
