@@ -50,7 +50,9 @@
 
 ## 🔧 Proyectos en Desarrollo
 <div style="display:flex;padding-left:20px;padding-right:40px;padding-bottom:1px;gap:8px">
-  
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -61,8 +63,8 @@
 
 </div>
 
-> [!NOTE]
-> Buscando próximo proyecto
+- Tablero Kanban [Repo](https://github.com/JGRoldan/web-clone-lab/tree/main/kanban-clone)
+- Sistema de tickets [Repo](https://github.com/JGRoldan/web-clone-lab/tree/main/gestion-ticket-clone)
 
 
 ## 🧪 Pruebas Tecnicas
