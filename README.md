@@ -42,6 +42,7 @@
 
 </div>
 
+- Login Basado en Roles [Demo](https://login-basado-en-roles.vercel.app/)
 - Cúspide Clone [Demo](https://cuspide-clone.vercel.app/)
 - Dantase Clone [Demo](https://dantase-clone.vercel.app/)
 - Kultur5 Clone [Demo](https://kultur5-clone.vercel.app/)
@@ -64,8 +65,7 @@
 
 </div>
 
-- Tablero Kanban [Repo](https://github.com/JGRoldan/web-clone-lab/tree/main/kanban-clone)
-- Sistema de tickets [Repo](https://github.com/JGRoldan/web-clone-lab/tree/main/gestion-ticket-clone)
+- Brainstorming 💡 🤯 🧠
 
 
 ## 🧪 Pruebas Tecnicas
